@@ -27,7 +27,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/diegoholiveira/jsonlogic/v3/internal/typing"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/typing"
 )
 
 // Apply reads a rule and data from `io.Reader`, applies the rule to the data

@@ -3,8 +3,8 @@ package jsonlogic
 import (
 	"reflect"
 
-	"github.com/diegoholiveira/jsonlogic/v3/internal/javascript"
-	"github.com/diegoholiveira/jsonlogic/v3/internal/typing"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/javascript"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/typing"
 )
 
 func hardEquals(values, data any) any {

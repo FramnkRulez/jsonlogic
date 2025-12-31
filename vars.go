@@ -7,7 +7,7 @@ import (
 
 	deepcopy "github.com/barkimedes/go-deepcopy"
 
-	"github.com/diegoholiveira/jsonlogic/v3/internal/typing"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/typing"
 )
 
 func solveVars(values, data any) any {

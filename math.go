@@ -3,7 +3,7 @@ package jsonlogic
 import (
 	"math"
 
-	"github.com/diegoholiveira/jsonlogic/v3/internal/typing"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/typing"
 )
 
 func mod(values, data any) any {

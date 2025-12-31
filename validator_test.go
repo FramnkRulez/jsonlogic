@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	jsonlogic "github.com/diegoholiveira/jsonlogic/v3"
+	jsonlogic "github.com/FramnkRulez/jsonlogic/v3"
 )
 
 func TestJSONLogicValidator(t *testing.T) {
