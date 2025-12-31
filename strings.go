@@ -3,7 +3,7 @@ package jsonlogic
 import (
 	"strings"
 
-	"github.com/diegoholiveira/jsonlogic/v3/internal/typing"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/typing"
 )
 
 func substr(values, data any) any {

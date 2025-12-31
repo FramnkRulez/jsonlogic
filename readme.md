@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/diegoholiveira/jsonlogic/v3"
+	"github.com/FramnkRulez/jsonlogic/v3"
 )
 
 func main() {
@@ -51,7 +51,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/diegoholiveira/jsonlogic/v3"
+	"github.com/FramnkRulez/jsonlogic/v3"
 )
 
 type (
@@ -114,7 +114,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/diegoholiveira/jsonlogic/v3"
+	"github.com/FramnkRulez/jsonlogic/v3"
 )
 
 func main() {
@@ -147,7 +147,7 @@ import (
 	"fmt"
 	"encoding/json"
 
-	"github.com/diegoholiveira/jsonlogic/v3"
+	"github.com/FramnkRulez/jsonlogic/v3"
 )
 
 func main() {

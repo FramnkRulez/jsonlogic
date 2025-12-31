@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/diegoholiveira/jsonlogic/v3/internal/typing"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/typing"
 )
 
 // OperatorFn defines the signature for custom operator functions.

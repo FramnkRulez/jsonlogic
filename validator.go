@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/diegoholiveira/jsonlogic/v3/internal/typing"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/typing"
 )
 
 // IsValid reads a JSON Logic rule from io.Reader and validates its syntax.

@@ -1,7 +1,7 @@
 package jsonlogic
 
 import (
-	"github.com/diegoholiveira/jsonlogic/v3/internal/typing"
+	"github.com/FramnkRulez/jsonlogic/v3/internal/typing"
 )
 
 // containsAll checks if all elements in the second array exist in the first array.
